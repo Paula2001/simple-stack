@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1538586337 source:c:\users\paula\desktop\datastructure\stack\main.cpp
+	<iostream>
+	"Stack.h"
+
+1538586277 c:\users\paula\desktop\datastructure\stack\stack.h
+	<iostream>
+	"Node.h"
+
+1538586258 c:\users\paula\desktop\datastructure\stack\node.h
+	<iostream>
+
+1538585675 source:c:\users\paula\desktop\datastructure\stack\node.cpp
+	"Node.h"
+
+1538586421 source:c:\users\paula\desktop\datastructure\stack\stack.cpp
+	"Stack.h"
+
